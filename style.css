@@ -2,6 +2,7 @@ p {
     font-size: 25px;
 }
 
-#a1{
-    size: 10px
+.classeescola{
+    image-rendering: left;
+    text-align: right;
 }
